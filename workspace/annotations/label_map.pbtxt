@@ -1,0 +1,12 @@
+item { 
+	name:'stone'
+	id:1
+}
+item { 
+	name:'paper'
+	id:2
+}
+item { 
+	name:'scissor'
+	id:3
+}
